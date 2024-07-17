@@ -5,7 +5,7 @@ return array (
   array (
     'dbdriver' => 'mysql',
     'username' => 'root',
-    'password' => '',
+    'password' => 'password',
     'dbname' => 'borrow',
     'prefix' => 'app',
     'hostname' => 'localhost',
