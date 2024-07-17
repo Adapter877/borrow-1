@@ -8,7 +8,7 @@ return array (
     'password' => 'password',
     'dbname' => 'borrow',
     'prefix' => 'app',
-    'hostname' => 'localhost',
+    'hostname' => '192.168.88.211',
     'port' => '3306',
   ),
   'tables' => 
